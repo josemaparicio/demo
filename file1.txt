@@ -1,3 +1,6 @@
 total 0
 drwxr-xr-x+ 3 jose  staff  102 Sep 28 08:45 NewFolder
 -rw-r--r--+ 1 jose  staff    0 Sep 28 08:47 file1.txt
+
+
+And here is more text
